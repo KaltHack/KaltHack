@@ -1,10 +1,22 @@
-# Hola, mi nombre es Luca
+# **Hola, mi nombre es Luca 👋**
 
 ![Matrix](https://res.cloudinary.com/practicaldev/image/fetch/s--z_y4wDUd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif)
-#### Soy programador desde hace algunos años, especializo python pero me esfuerzo en siempre aprender algo nuevo!
+#### Soy programador desde hace algunos años, menor de edad especializado en python. a pesar de mi edad me esfuerzo en siempre aprender algo nuevo!
 ---
 ## Aptitudes:
 ![python](https://img.shields.io/badge/-Python-%23ffe568?style=plastic&logo=python&logoColor=black&label=%E2%80%8E%20&labelColor=%233f80b1) ![nodejs](https://img.shields.io/badge/-Node%20JS-%2374ba55?style=plastic&logo=nodedotjs&logoColor=%2374ba55&label=%E2%80%8E%20&labelColor=%23303030) ![bash](https://img.shields.io/badge/-Bash-black?style=plastic&logo=gnubash&logoColor=black&label=%E2%80%8E%20&labelColor=white) ![batch](https://img.shields.io/badge/-Batch-white?style=plastic&logo=PowerShell&logoColor=%232897cf&label=%E2%80%8E%20&labelColor=black) ![hacking](https://img.shields.io/badge/-Hacking%20(%C3%A9tico)-%2339a3d8?style=plastic&logo=archlinux&logoColor=%2339a3d8&label=%E2%80%8E%20&labelColor=%23202020) ![linux](https://img.shields.io/badge/-Linux-black?style=plastic&logo=linux&logoColor=black&label=%E2%80%8E%20&labelColor=%23f5c11b) ![ingles](https://img.shields.io/badge/-Ingl%C3%A9s%20(B1)-%23222d65?style=plastic&logo=audiomack&logoColor=white&label=%E2%80%8E%20&labelColor=%23e52232)
+---
+## Reconocimientos:
+* NodeJS
+    * Fundamentos de javascript 1 (Reconocimiento)
+    * Fundamentos de javascript 2 (Reconocimiento)
+* Python
+    * Curso 120 horas **(Certificado)**
+* Hacking
+    * curso ciberseguridad de la UNAM (Reconocimiento)
+* Herramientas de google
+    * curso de la UNAM (Reconocimiento)
+
 ---
 ## Redes
 ![Threads](https://img.shields.io/badge/Threads-kalth.luca-black?style=flat&logo=Threads&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.threads.net%2F%40kalth.luca)
