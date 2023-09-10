@@ -25,8 +25,6 @@
 
 ![X](https://img.shields.io/badge/%20-Kalt47045-black?style=flat&logo=X&logoColor=black&labelColor=white&link=https%3A%2F%2Ftwitter.com%2FKalt47045)
 
-![TikTok](https://img.shields.io/badge/TikTok-kalt.hack-%23fe2c55?style=flat&logo=TikTok&logoColor=black&labelColor=%2325f4ee&link=https%3A%2F%2Fwww.tiktok.com%2F%40kalt.hack)
-
 ![Discord](https://img.shields.io/badge/Discord-kirpch-%235662f6?style=flat&logo=Discord&logoColor=%235662f6&labelColor=white)
 
 ![Contacto](https://img.shields.io/badge/Contacto-lnx.kalthack%40hotmail.com-white?style=flat&logo=gmail&logoColor=blue&labelColor=%23dc4b3f)
