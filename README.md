@@ -21,6 +21,9 @@
 
 ---
 ## Redes:
+
+![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx8BAnAtW8qU%26list%3DRDgEgcNM6gSuA%26index%3D5&style=flat-square&logo=gmail&label=%E3%85%A4Email&labelColor=black&color=ea4335)
+
 ![Threads](https://img.shields.io/badge/Threads-kalth.luca-black?style=flat&logo=Threads&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.threads.net%2F%40kalth.luca)
 
 ![instagram](https://img.shields.io/badge/Instagram-kalth.luca-%23b901ee?style=flat&logo=Instagram&logoColor=black&labelColor=%23ff9d00&link=https%3A%2F%2Fwww.instagram.com%2Fkalth.luca%2F)  
