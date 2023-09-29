@@ -20,20 +20,12 @@
     * curso de la UNAM (Reconocimiento)
 
 ---
-## Redes:
+## Contactos:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Label-luca.py%40hotmail.com-black?style=flat-square&logo=gmail&label=%E3%85%A4Email&labelColor=black&color=ea4335&link=https%3A%2F%2Foutlook.live.com">
 
-![Threads](https://img.shields.io/badge/Threads-kalth.luca-black?style=flat&logo=Threads&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.threads.net%2F%40kalth.luca)
+[![Discord](https://img.shields.io/badge/Discord-kirpch-%235662f6?style=flat-square&logo=Discord&logoColor=%235662f6&labelColor=white)](https://discord.com/users/977914225848614972)
 
-![instagram](https://img.shields.io/badge/Instagram-kalth.luca-%23b901ee?style=flat&logo=Instagram&logoColor=black&labelColor=%23ff9d00&link=https%3A%2F%2Fwww.instagram.com%2Fkalth.luca%2F)  
+[![Email](https://img.shields.io/badge/Label-luca.py%40hotmail.com-black?style=flat-square&logo=gmail&label=%E3%85%A4Email&labelColor=white&color=ea4335)](https://outlook.live.com)
 
-![X](https://img.shields.io/badge/%20-Kalt47045-black?style=flat&logo=X&logoColor=black&labelColor=white&link=https%3A%2F%2Ftwitter.com%2FKalt47045)
-
-![TikTok](https://img.shields.io/badge/TikTok-kalt.hack-%23fe2c55?style=flat&logo=TikTok&logoColor=black&labelColor=%2325f4ee&link=https%3A%2F%2Fwww.tiktok.com%2F%40kalt.hack)
-
-![Discord](https://img.shields.io/badge/Discord-kirpch-%235662f6?style=flat&logo=Discord&logoColor=%235662f6&labelColor=white)
-
-![Contacto](https://img.shields.io/badge/Contacto-lnx.kalthack%40hotmail.com-white?style=flat&logo=gmail&logoColor=blue&labelColor=%23dc4b3f)
-
+[![Whatsapp](https://img.shields.io/badge/Label-%2B52%202224396228-0dc142?style=flat-square&logo=WhatsApp&logoColor=0dc142&label=%E3%85%A4WhatsApp&labelColor=white&color=0dc142)](https://wa.me/+522224396228)
 
