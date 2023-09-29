@@ -22,7 +22,7 @@
 ---
 ## Redes:
 
-![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx8BAnAtW8qU%26list%3DRDgEgcNM6gSuA%26index%3D5&style=flat-square&logo=gmail&label=%E3%85%A4Email&labelColor=black&color=ea4335)
+<img alt="Static Badge" src="https://img.shields.io/badge/Label-luca.py%40hotmail.com-black?style=flat-square&logo=gmail&label=%E3%85%A4Email&labelColor=black&color=ea4335&link=https%3A%2F%2Foutlook.live.com">
 
 ![Threads](https://img.shields.io/badge/Threads-kalth.luca-black?style=flat&logo=Threads&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.threads.net%2F%40kalth.luca)
 
@@ -36,4 +36,4 @@
 
 ![Contacto](https://img.shields.io/badge/Contacto-lnx.kalthack%40hotmail.com-white?style=flat&logo=gmail&logoColor=blue&labelColor=%23dc4b3f)
 
-<object data="https://img.shields.io/badge/%E3%85%A4Email-luca.py%40hotmail.com-green?style=flat-square&logo=gmail&labelColor=black&color=ea4335&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx8BAnAtW8qU%26list%3DRDgEgcNM6gSuA%26index%3D5" width="400"></object>
+
