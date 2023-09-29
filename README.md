@@ -32,3 +32,5 @@
 ![Discord](https://img.shields.io/badge/Discord-kirpch-%235662f6?style=flat&logo=Discord&logoColor=%235662f6&labelColor=white)
 
 ![Contacto](https://img.shields.io/badge/Contacto-lnx.kalthack%40hotmail.com-white?style=flat&logo=gmail&logoColor=blue&labelColor=%23dc4b3f)
+
+<object data="https://img.shields.io/badge/%E3%85%A4Email-luca.py%40hotmail.com-green?style=flat-square&logo=gmail&labelColor=black&color=ea4335&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx8BAnAtW8qU%26list%3DRDgEgcNM6gSuA%26index%3D5" width="400"></object>
