@@ -8,16 +8,16 @@
 ---
 ## Reconocimientos:
 * NodeJS
-    * Fundamentos de javascript 1 (Reconocimiento)
-    * Fundamentos de javascript 2 (Reconocimiento)
+    * Fundamentos de JS 1 (Reconocimiento)
+    * Fundamentos de JS 2 (Reconocimiento)
 * Python
-    * Curso 120 horas **(Certificado)**
-    * Data Science de la IBM (Reconocimiento/Badge)
-    * Machine Learning de la IBM (Reconocimiento/Badge)
+    * Curso de 120 horas, The Royal Master Academy (Diploma)
+    * Data Science, IBM (Reconocimiento/Badge)
+    * Machine Learning, IBM (Reconocimiento/Badge)
 * Hacking
-    * curso ciberseguridad de la UNAM (Reconocimiento)
+    * Curso de ciberseguridad, UNAM (Reconocimiento)
 * Herramientas de google
-    * curso de la UNAM (Reconocimiento)
+    * Aprovechamiento de las herramientas de Google, UNAM (Reconocimiento)
 
 ---
 ## Contactos:
