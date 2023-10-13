@@ -30,8 +30,6 @@
 
 #### <img src="https://cdn.discordapp.com/emojis/1052336528648572928.webp?size=32&quality=lossless&width=100&height=100" align="absmiddle"> ﾠ[Grupo de estudio de C#](https://github.com/puertalex/Grupo-de-estudio-CSharp-desde-0)
 
-
-
 ---
 ## Contactos:
 
