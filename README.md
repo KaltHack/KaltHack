@@ -33,7 +33,7 @@
 ---
 ## Contactos:
 
-[![Discord](https://img.shields.io/badge/Discord-kalhack-%235662f6?style=flat-square&logo=Discord&logoColor=%235662f6&labelColor=white)](https://discord.com/users/977914225848614972)
+[![Discord](https://img.shields.io/badge/Discord-kalthack-%235662f6?style=flat-square&logo=Discord&logoColor=%235662f6&labelColor=white)](https://discord.com/users/977914225848614972)
 </br>
 [![Email](https://img.shields.io/badge/Label-luca.py%40hotmail.com-black?style=flat-square&logo=gmail&label=%E3%85%A4Email&labelColor=white&color=ea4335)](https://outlook.live.com)
 </br>
